@@ -1,0 +1,6 @@
+{
+  "gitlens.telemetry.enabled": false,
+  "editor.unusualLineTerminators": "off",
+  "terminal.integrated.shellIntegration.enabled": false,
+  "terminal.integrated.suggest.enabled": false  
+}
