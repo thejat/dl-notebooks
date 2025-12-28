@@ -1,8 +1,64 @@
+# macOS
 .DS_Store
-.vscode
+
+# IDE
+.vscode/
+.idea/
+
+# Python bytecode
 *.pyc
-others
-pdf
-dev
-.ipynb_checkpoints
-*2021*.txt
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files and checkpoints
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.onnx
+*.safetensors
+checkpoints/
+models/
+
+# Data files
+*.csv
+*.parquet
+*.json
+!package.json
+data/
+datasets/
+
+# Logs and outputs
+*.log
+logs/
+runs/
+wandb/
+tensorboard/
+mlruns/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Project-specific
+others/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
