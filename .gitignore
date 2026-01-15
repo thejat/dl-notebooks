@@ -56,7 +56,7 @@ build/
 *.egg
 
 # Project-specific
-others/
+scripts/
 
 # Temporary files
 *.tmp
