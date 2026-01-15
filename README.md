@@ -92,12 +92,15 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 
 ## 📝 Syllabus
 
-Please see the [Syllabus.ipynb](Syllabus.ipynb) notebook for:
+Please see the [Syllabus](Syllabus.md) for:
 - Full course schedule and dates
 - Assignment details and deadlines
-- Project requirements
+- Project requirements ([Project.md](Project.md))
 - Grading breakdown
 - Textbook recommendations
+
+Additional resources:
+- [Lecture Goals](LectureGoals.md) - Learning objectives and external resources for each lecture
 
 ---
 
