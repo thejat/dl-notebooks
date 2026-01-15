@@ -128,11 +128,85 @@ These involve reimplementing recent deep-learning techniques and understanding t
 ## 6. Grades
 
  - Grades will be based on:
-   - the assignments (3 times 10%), 
-   - the project (see project details above) (10% for intermediate and 50% for final), and 
+   - the assignments (3 times 10%),
+   - the project (see project details above) (10% for intermediate and 50% for final), and
    - course participation (including but not limited to attendance, interaction with the instructor and the TA (the latter if applicable), and how well you support your group) (10%).
 
-## 7. Miscellaneous Information
+## 7. Generative AI Usage Policy
+
+### Overview
+
+Generative AI tools such as OpenAI ChatGPT, Microsoft Copilot (Bing Chat), Google Gemini, and similar systems can generate text, images, code, and other media in response to user prompts. While these tools may support learning, their use in this course is governed by the following policy to ensure academic integrity, responsible engagement, and alignment with University of Illinois System guidance.
+
+Students should be aware that generative AI systems may produce outputs that appear plausible but are factually incorrect, fabricated, or internally inconsistent. This phenomenon, often referred to as hallucination, occurs because these systems do not inherently verify facts or ensure correctness. As a result, AI-generated outputs may:
+
+* Infer relationships that do not exist
+* Invent citations, names, references, or data
+* Blend correct and incorrect information in misleading ways
+
+Students are fully responsible for the accuracy, originality, and integrity of all submitted work, regardless of whether AI tools were used.
+
+### General Guidelines
+
+1. Use generative AI tools only in ways explicitly permitted by this syllabus or by assignment instructions.
+2. Clearly document and disclose all uses of generative AI in coursework.
+3. Independently verify the accuracy of all AI-assisted content, including facts, data, citations, and code.
+
+### Permitted Uses of Generative AI
+
+Unless otherwise specified for a particular assignment, students may use generative AI tools for the following purposes:
+
+* Editing or shortening their own written text
+* Revising their own writing for grammar, spelling, or clarity
+* Creating personal study aids (for example, flashcards or summaries)
+* Practicing explanations of course concepts or testing understanding
+* Conducting preliminary or background research on course-related topics
+
+AI tools may not be used to replace original thinking, analysis, or problem-solving unless explicitly authorized.
+
+### Exams and Quizzes
+
+* **Closed-book assessments:** Use of generative AI tools is not allowed.
+* **Open-book assessments:** Use of generative AI tools is permitted only if explicitly stated in the assessment instructions. Conditions will be specified on a case-by-case basis.
+
+Unauthorized use of AI during assessments constitutes a violation of academic integrity.
+
+### Documentation Requirements
+
+When generative AI tools are used, students must be able to document that use. Documentation may include:
+
+* A record or journal of prompts and AI-generated responses
+* A link to the relevant AI chat history, if available
+
+Students must submit this documentation upon request.
+
+### Citation and Attribution
+
+* All use of generative AI must be properly cited and disclosed.
+* AI tools should be cited following APA guidelines, including the text of the prompt when relevant.
+* AI-generated content is not a valid primary source for factual claims. Students must locate, verify, and cite original authoritative sources for all facts, data, and claims.
+
+Students are expected to follow the University of Illinois System guidance on generative AI use by students.
+
+### Academic Integrity
+
+Failure to comply with this policy constitutes a violation of academic integrity and will be handled in accordance with the UIC Student Code of Conduct.
+
+Misuse of generative AI includes, but is not limited to:
+
+* Submitting AI-generated work as one's own without disclosure
+* Using AI tools to fabricate data, results, or sources
+* Relying on AI systems in ways that circumvent learning objectives
+
+### Data Privacy Notice
+
+Generative AI platforms may collect, store, or share user data. Students should not input personal, confidential, proprietary, or sensitive information into these systems. Guidance on data security and privacy is available through UIC Information Technology resources.
+
+### AI Analysis Disclaimer
+
+Student submissions may be stored in anonymized repositories and may be subject to automated or manual analysis. Do not include personally identifiable information, confidential data, or proprietary materials in coursework submissions.
+
+## 8. Miscellaneous Information
 
  - This is a 4 credit graduate level course offered by the Information and Decision Sciences department at UIC.
  - See the [academic calendar](http://catalog.uic.edu/ucat/academic-calendar/) for the semester timeline.
@@ -140,7 +214,7 @@ These involve reimplementing recent deep-learning techniques and understanding t
  - Contact the instructor at the earliest, if you require any accommodations for access to and/or participation in this course (see additional details below).
  - Refer to the academic integrity guidelines set by the university.
  
-### 7.1 Special Accommodations
+### 8.1 Special Accommodations
 
 UIC has the [Disability Resource Center (DRC)](https://drc.uic.edu/) to help students needing special accommodations. If you have any condition, such as a physical or learning disability, which will make it difficult for you to carry out the work as outlined in the syllabus or which will require academic accommodations, you can go to the DRC for assistance, and should do so at the beginning of the semester or as early as possible. 
 
