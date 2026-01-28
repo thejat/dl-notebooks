@@ -60,24 +60,22 @@ We will also discuss aspects of **AI ethics, fairness, accountability, transpare
  - 04/28: project final report+code due
  - 04/29: student project presentations
 
-### 3.2. Tentative Topics
+### 3.2. Tentative Modules
 
-*See [this page](https://github.com/thejat/dl-notebooks/blob/master/LectureGoals.md) for goals, module specific external links and [this folder](https://github.com/thejat/dl-notebooks/tree/master/slides) for the slides.*
+*See [this page](https://github.com/thejat/dl-notebooks/blob/master/ModuleGoals.md) for goals, module specific external links and [this folder](https://github.com/thejat/dl-notebooks/tree/master/slides) for the slides.*
 
- -  L01 : Motivating Applications, Machine Learning Pipeline  (Data, Models, Loss, Optimization), Backpropagation
- -  L02 : Feedforward Networks: Nonlinearities, Convolutional Neural Networks: Convolution, Pooling
- -  L03 : Jumpstarting Convolutional Neural Networks: Visualization, Transfer, Practical Models (VGG, ResNet)
- -  L04 : Text and Embeddings: Introduction to NLP, Word Embeddings, Word2Vec
- -  L05 : Recurrent Neural Networks and Transformers: Sequence to Sequence Learning, RNNs and LSTMs
- -  L06 : Advanced NLP: Attention, BERT and Transformers
- -  L07 : LLMs, VLMs, MLLMs, Diffusion Models
- -  L08 : Unsupervised Deep Learning: Variational Autoencoders
- -  L09 : Unsupervised Deep Learning: Generative Adversarial Networks
- -  L10 : Online Learning: A/B Testing, Multi-armed Bandits, Contextual Bandits
- -  L11 : Reinforcement Learning I: Policies, State-Action Value Functions
- -  L12 : Reinforcement Learning II: Bellman Equations, Q Learning 
- -  L13 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games, MCTS for AlphaGo
- -  L14 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
+ -  M01 : Motivating Applications, Machine Learning Pipeline  (Data, Models, Loss, Optimization), Backpropagation
+ -  M02 : Feedforward Networks: Nonlinearities, Convolutional Neural Networks: Convolution, Pooling
+ -  M03 : Jumpstarting Convolutional Neural Networks: Visualization, Transfer, Practical Models (VGG, ResNet)
+ -  M04 : Text and Embeddings: Introduction to NLP, Word Embeddings, Word2Vec
+ -  M05 : Recurrent Neural Networks and Transformers: Sequence to Sequence Learning, RNNs and LSTMs
+ -  M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs, Diffusion Models
+ -  M07 : Unsupervised Deep Learning: Variational Autoencoders, Generative Adversarial Networks
+ -  M08 : Online Learning: A/B Testing, Multi-armed Bandits, Contextual Bandits
+ -  M09 : Reinforcement Learning I: Policies, State-Action Value Functions
+ -  M10 : Reinforcement Learning II: Bellman Equations, Q Learning 
+ -  M11 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games, MCTS for AlphaGo
+ -  M12 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
 
 ## 4. Textbook and Materials
 
