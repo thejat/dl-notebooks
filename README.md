@@ -74,12 +74,12 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 
 | Category | Notebooks |
 |----------|-----------|
-| **Python & PyTorch Basics** | [Python Review](examples/basics_of_python_and_pytorch/Python_Review_IDS576.ipynb), [PyTorch Prelims](examples/basics_of_python_and_pytorch/Torch_Prelims.ipynb) |
-| **Feed-Forward Networks** | [Linear Classifier](examples/feed_forward_networks/Linear_Classifier_Example.ipynb), [FFN Classifier](examples/feed_forward_networks/FFN_Classifier_Example.ipynb) |
-| **CNNs** | [CNN Classifier](examples/convolutional_neural_networks/ConvolutionalNet_Classifier_Example.ipynb), [t-SNE MNIST](examples/convolutional_neural_networks/TSNE_Embedding_Example_MNIST.ipynb) |
-| **NLP & RNNs** | [RNN Sentiment](examples/recurrent_neural_networks/Seq2Seq_RNN_Simple_Sentiment_Analysis.ipynb), [LSTM Sentiment](examples/recurrent_neural_networks/Seq2Seq_LSTM_Simple_Sentiment_Analysis.ipynb) |
-| **LLM Fine-tuning** | [Fine-tuning & LoRA](examples/transfer_learning/Transfer_Learning_Funetuing_LoRA_Example.ipynb) |
-| **Reinforcement Learning** | [Q-Learning CliffWorld](examples/reinforcement_learning/q_learning_cliffworld.ipynb) |
+| **Python & PyTorch Basics** | [Python Review](examples/M01_basics/Python_Review_IDS576.ipynb), [PyTorch Prelims](examples/M01_basics/Torch_Prelims.ipynb) |
+| **Feed-Forward Networks** | [Linear Classifier](examples/M02_feedforward/Linear_Classifier_Example.ipynb), [FFN Classifier](examples/M02_feedforward/FFN_Classifier_Example.ipynb) |
+| **CNNs** | [CNN Classifier](examples/M03_cnn_transfer/ConvolutionalNet_Classifier_Example.ipynb), [t-SNE MNIST](examples/M03_cnn_transfer/TSNE_Embedding_Example_MNIST.ipynb) |
+| **NLP & RNNs** | [RNN Sentiment](examples/M05_recurrent/Seq2Seq_RNN_Simple_Sentiment_Analysis.ipynb), [LSTM Sentiment](examples/M05_recurrent/Seq2Seq_LSTM_Simple_Sentiment_Analysis.ipynb) |
+| **LLM Fine-tuning** | [Fine-tuning & LoRA](examples/M03_cnn_transfer/Transfer_Learning_Funetuing_LoRA_Example.ipynb) |
+| **Reinforcement Learning** | [Q-Learning CliffWorld](examples/M09_reinforcement/q_learning_cliffworld.ipynb) |
 
 ---
 
