@@ -72,10 +72,9 @@ We will also discuss aspects of **AI ethics, fairness, accountability, transpare
  -  M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs, Diffusion Models
  -  M07 : Unsupervised Deep Learning: Variational Autoencoders, Generative Adversarial Networks
  -  M08 : Online Learning: A/B Testing, Multi-armed Bandits, Contextual Bandits
- -  M09 : Reinforcement Learning I: Policies, State-Action Value Functions
- -  M10 : Reinforcement Learning II: Bellman Equations, Q Learning 
- -  M11 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games, MCTS for AlphaGo
- -  M12 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
+ -  M09 : Reinforcement Learning: Policies, State-Action Value Functions, Bellman Equations, Q Learning 
+ -  M10 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games, MCTS for AlphaGo
+ -  M11 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
 
 ## 4. Textbook and Materials
 

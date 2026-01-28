@@ -139,32 +139,26 @@
 - The multi armed bandit problem and solutions
 - Contextual bandits
 
-## M09 : Reinforcement Learning I: Policies, State-Action Value Functions
+## M09 : Reinforcement Learning: Policies, State-Action Value Functions, Bellman Equations, Q Learning
 
  - [Openai Gym](https://github.com/openai/gym)
  - [RL in Pytorch](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) from [Pytorch examples repository](https://github.com/pytorch/examples)
  - [RL with Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
  - [RLHF for ChatGPT like Assistants](https://arxiv.org/pdf/2204.05862.pdf)
-
-### Goals
-
-- What is reinforcement learning?
-- Basics of Markov Decision Processes
-- Policies, Value functions and how to think about these two objects
-
-## M10 : Reinforcement Learning II: Bellman Equations, Q Learning
-
  - [Implementations of RL](https://github.com/dennybritz/reinforcement-learning)
  - [Flappy Bird with Q learning](http://sarvagyavaish.github.io/FlappyBirdRL/)
  - [ML Katas: Cliffworld with Q learning](https://www.bpesquet.fr/mlkatas/coding/q_learning_cliffworld.html)
 
 ### Goals
 
+- What is reinforcement learning?
+- Basics of Markov Decision Processes
+- Policies, Value functions and how to think about these two objects
 - Be able to understand the difference between Bellman Expectation Equation and Bellman Optimality Equation
 - Intuitive reasoning for the Q-Learning update rule
 - Be able to identify relationships between state value functions, state-action value functions and policies
 
-## M11 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games,  DQN for Atari Games, MCTS for AlphaGo
+## M10 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games,  DQN for Atari Games, MCTS for AlphaGo
 
  - [OpenAI Baselines for RL](https://github.com/openai/baselines)
  - [Cartpole environment with DQN](https://github.com/seungeunrho/minimalRL/blob/master/dqn.py)
@@ -176,7 +170,7 @@
 - Identify the differences between Monte Carlo tree search vs Monte Carlo rollouts
 - Be able to identify key compoments of the AlphaGo (and variants such as AlphaZero) Go playing agent
 
-## M12 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
+## M11 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
 
  - Textbooks (see [Syllabus](Syllabus.md))
    - [Responsible AI](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/) by Patrick Hall and Rumman Chowdhury (2022)

@@ -56,17 +56,17 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 
 | Module | Topic | Materials |
 |--------|-------|-----------|
-| L01 | Backpropagation & ML Pipeline | [Slides](slides/lec01_backprop.pdf) |
-| L02 | Feed-Forward Networks | [Slides](slides/lec02_ffn.pdf) |
-| L03 | CNNs & Transfer Learning | [Slides](slides/lec03_cnns_transfer.pdf) |
-| L04 | NLP & Word Embeddings | [Slides](slides/lec04_nlp.pdf) |
-| L05 | Seq2Seq & Attention | [Slides](slides/lec05_seq2seq.pdf), [Slides](slides/lec05a_attention.pdf) |
-| L06 | Advanced NLP & Transformers | [Slides](slides/lec06_advanced_text.pdf) |
-| L07-08 | VAEs & GANs | [Slides](slides/lec07_08_VAEs_and_GANs.pdf) |
-| L09 | Online Learning & Bandits | [Slides](slides/lec09_online_ml.pdf) |
-| L10-11 | Intro to RL | [Slides](slides/lec10_11_intro2RL.pdf) |
-| L12 | Deep RL | [Slides](slides/lec12_deepRL.pdf) |
-
+| M01 | Backpropagation & ML Pipeline | [Slides](slides/lec01_backprop.pdf) |
+| M02 | Feed-Forward Networks | [Slides](slides/lec02_ffn.pdf) |
+| M03 | CNNs & Transfer Learning | [Slides](slides/lec03_cnns_transfer.pdf) |
+| M04 | NLP & Word Embeddings | [Slides](slides/lec04_nlp.pdf) |
+| M05 | Seq2Seq & Attention | [Slides](slides/lec05_seq2seq.pdf), [Slides](slides/lec05a_attention.pdf) |
+| M06 | Advanced NLP & Transformers | [Slides](slides/lec06_advanced_text.pdf) |
+| M07 | VAEs & GANs | [Slides](slides/lec07_08_VAEs_and_GANs.pdf) |
+| M08 | Online Learning & Bandits | [Slides](slides/lec09_online_ml.pdf) |
+| M09 | Intro to RL | [Slides](slides/lec10_11_intro2RL.pdf) |
+| M10 | Deep RL | [Slides](slides/lec12_deepRL.pdf) |
+| M11 | Sustainable AI | [Slides](slides/M11_sustainable_AI.pdf) |
 ---
 
 ## 📁 Examples
