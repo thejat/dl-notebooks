@@ -175,3 +175,33 @@
 - Be able to understand the key innovations in the DQN model 
 - Identify the differences between Monte Carlo tree search vs Monte Carlo rollouts
 - Be able to identify key compoments of the AlphaGo (and variants such as AlphaZero) Go playing agent
+
+## M12 : AI Ethics, Fairness, Accountability, Transparency and Sustainability
+
+ - Textbooks (see [Syllabus](Syllabus.md))
+   - [Responsible AI](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/) by Patrick Hall and Rumman Chowdhury (2022)
+   - [Practical Fairness](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/) by Aileen Nielsen (2020)
+   - [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/) by Barocas, Hardt and Narayanan (2018)
+   - [The Framework for ML Governance](https://learning.oreilly.com/library/view/the-framework-for/9781098100483/) by Kyle Gallatin (2021)
+ - Fairness Tools and Libraries
+   - [IBM AI Fairness 360](https://aif360.mybluemix.net/)
+   - [Google What-If Tool](https://pair-code.github.io/what-if-tool/)
+   - [Microsoft Fairlearn](https://fairlearn.org/)
+ - Explainability and Transparency
+   - [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/)
+   - [LIME (Local Interpretable Model-agnostic Explanations)](https://github.com/marcotcr/lime)
+ - Sustainability
+   - [ML CO2 Impact Calculator](https://mlco2.github.io/impact/)
+   - [Green AI Paper](https://arxiv.org/abs/1907.10597)
+ - Regulation and Guidelines
+   - [EU AI Act](https://artificialintelligenceact.eu/)
+   - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
+### Goals
+
+- Understand the key principles of responsible AI: fairness, accountability, transparency, and ethics
+- Be able to identify sources of bias in ML pipelines (data, model, deployment)
+- Know how to use fairness metrics and tools to evaluate and mitigate bias in models
+- Understand the importance of model interpretability and explainability for stakeholder trust
+- Be aware of the environmental impact of training large models and strategies for sustainable AI
+- Familiarize with regulatory frameworks (EU AI Act, NIST) governing AI deployment

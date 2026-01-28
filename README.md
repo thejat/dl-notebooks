@@ -24,10 +24,10 @@ This repository contains material for a deep learning course (IDS 576) at UIC.
 
 ## 🚀 Quick Start
 
-### Option 1: Google Colab (Recommended)
+### Option 1: Google Colab
 Click the "Open in Colab" badge on any notebook to run it directly in your browser with free GPU access.
 
-### Option 2: Local Setup
+### Option 2: Local/Cloud VM Setup
 
 1. **Clone the repository**
    ```bash
