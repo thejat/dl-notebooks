@@ -5,8 +5,9 @@
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 > **Alternate title:** Elements of Modern AI Models
+> **Covers:** Transformers, LLM Fine-tuning, Generative AI, and Deep RL
 
-This repository contains material for a deep learning course (IDS 576) at UIC. 
+This repository contains material for a deep learning course (IDS 576) at UIC.
 
 **Audience:** Enthusiastic business analysts with intermediate Python programming experience.
 
@@ -61,7 +62,7 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 | M03 | CNNs & Transfer Learning | [Slides](slides/lec03_cnns_transfer.pdf) |
 | M04 | NLP & Word Embeddings | [Slides](slides/lec04_nlp.pdf) |
 | M05 | Seq2Seq & Attention | [Slides](slides/lec05_seq2seq.pdf), [Slides](slides/lec05a_attention.pdf) |
-| M06 | Advanced NLP & Transformers | [Slides](slides/lec06_advanced_text.pdf) |
+| M06 | LLMs, Transformers & Multimodal AI | [Slides](slides/lec06_advanced_text.pdf) |
 | M07 | VAEs & GANs | [Slides](slides/lec07_08_VAEs_and_GANs.pdf) |
 | M08 | Online Learning & Bandits | [Slides](slides/lec09_online_ml.pdf) |
 | M09 | Intro to RL | [Slides](slides/lec10_11_intro2RL.pdf) |
@@ -77,7 +78,7 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 | **Feed-Forward Networks** | [Linear Classifier](examples/feed_forward_networks/Linear_Classifier_Example.ipynb), [FFN Classifier](examples/feed_forward_networks/FFN_Classifier_Example.ipynb) |
 | **CNNs** | [CNN Classifier](examples/convolutional_neural_networks/ConvolutionalNet_Classifier_Example.ipynb), [t-SNE MNIST](examples/convolutional_neural_networks/TSNE_Embedding_Example_MNIST.ipynb) |
 | **NLP & RNNs** | [RNN Sentiment](examples/recurrent_neural_networks/Seq2Seq_RNN_Simple_Sentiment_Analysis.ipynb), [LSTM Sentiment](examples/recurrent_neural_networks/Seq2Seq_LSTM_Simple_Sentiment_Analysis.ipynb) |
-| **Transfer Learning** | [Fine-tuning & LoRA](examples/transfer_learning/Transfer_Learning_Funetuing_LoRA_Example.ipynb) |
+| **LLM Fine-tuning** | [Fine-tuning & LoRA](examples/transfer_learning/Transfer_Learning_Funetuing_LoRA_Example.ipynb) |
 | **Reinforcement Learning** | [Q-Learning CliffWorld](examples/reinforcement_learning/q_learning_cliffworld.ipynb) |
 
 ---

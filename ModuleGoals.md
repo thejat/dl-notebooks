@@ -47,6 +47,7 @@
 - Know the different ways to debug a deep network
 - Be aware of the different engineering tricks such as dropout, batch normalization
 - Learn why image datasets can be enhanced using data augmentation
+- Understand parameter-efficient fine-tuning techniques (LoRA, adapters) for pretrained models
 
 ## M04 : Text and Embeddings: Introduction to NLP, Word Embeddings, Word2Vec
 
@@ -100,6 +101,8 @@
  - Code
    - [SOTA Transformer Implementations including BERT and DistillBERT](https://github.com/huggingface/transformers) (for example [BERT-base-uncased](https://huggingface.co/bert-base-uncased))
    - [Open Deep Research Model](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
+   - [PEFT: Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
+   - [Unsloth: Fast LLM Fine-tuning](https://github.com/unslothai/unsloth)
  - Papers
    - [Llama](https://arxiv.org/abs/2302.13971), [Llama 2](https://arxiv.org/abs/2307.09288), [Llama 3](https://arxiv.org/abs/2407.21783)
 
@@ -108,6 +111,9 @@
 - Be able to explain self-attention and how it differs from simpler attention mechanisms seen in sequence to sequence models
 - Be able to reason about keys, values and queries in self-attention
 - Be able to recall the key characteristics of BERT and how pre-trained models can be used for NLP tasks.
+- Understand the architecture and training paradigm of Large Language Models (LLMs)
+- Know the basics of LLM fine-tuning using parameter-efficient methods (LoRA, PEFT)
+- Be aware of vision-language models (VLMs) and multimodal LLMs (MLLMs)
 
 ## M07 : Unsupervised Deep Learning: Variational Autoencoders, Diffusion Models, Generative Adversarial Networks
 

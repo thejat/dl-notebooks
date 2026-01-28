@@ -11,7 +11,7 @@
 
 The goal of this class is to cover a subset of advanced machine learning techniques, after students have seen the basics of data mining (such as in IDS 572) and machine learning (such as in IDS 575). 
 
-Broadly, we will cover topics spanning **deep learning and reinforcement learning**. In particular, we will study popular deep learning architectures, their design choices and how they are trained. This will be motivated by business applications dealing with image, text and tabular data. Finally, we will look at online and reinforcement learning frameworks and their role in sequential decision making settings such as retail.
+Broadly, we will cover topics spanning **deep learning and reinforcement learning**. In particular, we will study popular deep learning architectures, their design choices and how they are trained. This will be motivated by business applications dealing with image, text and tabular data, including LLM-powered applications. Finally, we will look at online and reinforcement learning frameworks and their role in sequential decision making settings such as retail.
 
 A tentative list of topics is as follows:
 
@@ -21,7 +21,7 @@ A tentative list of topics is as follows:
  - Attention mechanism and transformers (BERT, GPT-3)
  - Variational autoencoders (VAEs)
  - Generative adversarial networks (GANs)
- - Large Language Models (LLMs): training, inference and applications
+ - Large Language Models (LLMs): training, fine-tuning (LoRA, PEFT), inference and applications
  - Deep reinforcement learning and Deep Q-Network (DQN)
  - Deep learning design choices such as optimizers (Adam, RMSprop), nonlinearities, embeddings, attention, dropout, batch normalization etc.
 
@@ -66,7 +66,7 @@ We will also discuss aspects of **AI ethics, fairness, accountability, transpare
 
  -  M01 : Motivating Applications, Machine Learning Pipeline  (Data, Models, Loss, Optimization), Backpropagation
  -  M02 : Feedforward Networks: Nonlinearities, Convolutional Neural Networks: Convolution, Pooling
- -  M03 : Jumpstarting Convolutional Neural Networks: Visualization, Transfer, Practical Models (VGG, ResNet)
+ -  M03 : Transfer Learning and Fine-tuning: Visualization, LoRA, Practical Models (VGG, ResNet)
  -  M04 : Text and Embeddings: Introduction to NLP, Word Embeddings, Word2Vec
  -  M05 : Recurrent Neural Networks and Transformers: Sequence to Sequence Learning, RNNs and LSTMs
  -  M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs, Diffusion Models
