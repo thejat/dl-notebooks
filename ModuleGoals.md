@@ -31,13 +31,11 @@
 
  - [Overfitting and Dropout example](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
  - [Explaniability via Captum](https://captum.ai/docs/captum_insights)
- - Emerging Topics:
+ - Additional Links:
     - [Text to Video](https://lumiere-video.github.io/)
     - [Vision Models](https://omnihuman-lab.github.io/)
     - [Deepseek-V3](https://arxiv.org/pdf/2412.19437v1), [Deekseek-R1](https://arxiv.org/abs/2501.12948), [Deepseek-Janus-Pro](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf) and related links: [1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1), [2](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1), [3](https://github.com/deepseek-ai/) and [4](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model).
  - Project Ideas from Meta ELI5 series: [1](https://www.youtube.com/playlist?list=PLzIwronG0sE7cCot-0yCbnuR6sAe7PIYX), [2](https://www.youtube.com/playlist?list=PLzIwronG0sE5ZVygDBFsV6EfdzyQ3u2m-) and [3](https://www.youtube.com/playlist?list=PLzIwronG0sE49zLk608yB5GKKT8WbEhnZ).
- - [LoRA](https://docs.google.com/presentation/d/1IxVFpmhX93oTVKfVtDMX_r1LAmXxolS1JXSkLORY7Y8/edit?usp=sharing)
- - [Comments on GPU Specs for Training](https://docs.google.com/presentation/d/1Smk_zMG7_XWsljpn9brURCm52HHVcSkD3CvA5ajTxNA/edit?usp=sharing)
  - Ethics
    - [Data Leak](https://dataportraits.org/)
 
@@ -56,7 +54,7 @@
    - [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
    - CNN for sentence classification tasks. [link1](https://arxiv.org/pdf/1408.5882.pdf) and [link2](https://arxiv.org/pdf/1510.03820v4.pdf)
    - [Pytorch tutorial on using CNN for sentence classification: notebook 4](https://github.com/bentrevett/pytorch-sentiment-analysis)
- - Emerging Topics:
+ - Additional Links:
    - [Notebook LM by Google](https://notebooklm.google/)
    - [Controllable character video synthesis](https://menyifang.github.io/projects/MIMO/index.html)
    - [Small Vision Models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
