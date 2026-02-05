@@ -57,17 +57,16 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 
 | Module | Topic | Materials |
 |--------|-------|-----------|
-| M01 | Backpropagation & ML Pipeline | [Slides](slides/lec01_backprop.pdf) |
-| M02 | Feed-Forward Networks | [Slides](slides/lec02_ffn.pdf) |
-| M03 | CNNs & Transfer Learning | [Slides](slides/lec03_cnns_transfer.pdf) |
-| M04 | NLP & Word Embeddings | [Slides](slides/lec04_nlp.pdf) |
-| M05 | Seq2Seq & Attention | [Slides](slides/lec05_seq2seq.pdf), [Slides](slides/lec05a_attention.pdf) |
-| M06 | LLMs, Transformers & Multimodal AI | [Slides](slides/lec06_advanced_text.pdf) |
-| M07 | VAEs & GANs | [Slides](slides/lec07_08_VAEs_and_GANs.pdf) |
-| M08 | Online Learning & Bandits | [Slides](slides/lec09_online_ml.pdf) |
-| M09 | Intro to RL | [Slides](slides/lec10_11_intro2RL.pdf) |
-| M10 | Deep RL | [Slides](slides/lec12_deepRL.pdf) |
-| M11 | Sustainable AI | [Slides](slides/M11_sustainable_AI.pdf) |
+| M01 | Review & ML Pipeline | [Slides](slides/M01_review.pdf) |
+| M02 | Feed-Forward Networks | [Slides](slides/M02_feedforward.pdf) |
+| M03 | CNNs & Transfer Learning | [Slides](slides/M03a_cnn_and_transfer.pdf), [LoRA](slides/M03b_LoRA.pdf), [PyTorch](slides/M03c_Pytorch.pdf) |
+| M04 | Text & NLP | [Slides](slides/M04_text.pdf) |
+| M05 | Recurrent Networks & Attention | [Slides](slides/M05a_recurrent.pdf), [Attention](slides/M05b_attention.pdf) |
+| M06 | Transformers | [Slides](slides/M06a_transformers.pdf) |
+| M07 | Unsupervised Learning (VAEs & GANs) | [Slides](slides/M07_unsupervised.pdf) |
+| M08 | Repeated Decision Making & Bandits | [Slides](slides/M08_repeated_decision_making.pdf) |
+| M09 | Reinforcement Learning | [Slides](slides/M09_reinforcement.pdf) |
+| M10 | Deep Reinforcement Learning | [Slides](slides/M10_deep_reinforcement.pdf) |
 ---
 
 ## 📁 Examples
@@ -78,7 +77,7 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 | **Feed-Forward Networks** | [Linear Classifier](examples/M02_feedforward/Linear_Classifier_Example.ipynb), [FFN Classifier](examples/M02_feedforward/FFN_Classifier_Example.ipynb) |
 | **CNNs** | [CNN Classifier](examples/M03_cnn_transfer/ConvolutionalNet_Classifier_Example.ipynb), [t-SNE MNIST](examples/M03_cnn_transfer/TSNE_Embedding_Example_MNIST.ipynb) |
 | **NLP & RNNs** | [RNN Sentiment](examples/M05_recurrent/Seq2Seq_RNN_Simple_Sentiment_Analysis.ipynb), [LSTM Sentiment](examples/M05_recurrent/Seq2Seq_LSTM_Simple_Sentiment_Analysis.ipynb) |
-| **LLM Fine-tuning** | [Fine-tuning & LoRA](examples/M03_cnn_transfer/Transfer_Learning_Funetuing_LoRA_Example.ipynb) |
+| **LLM Fine-tuning** | [Fine-tuning & LoRA](examples/M03_cnn_transfer/Transfer_Learning_Finetuing_LoRA_Example.ipynb) |
 | **Reinforcement Learning** | [Q-Learning CliffWorld](examples/M09_reinforcement/q_learning_cliffworld.ipynb) |
 
 ---
