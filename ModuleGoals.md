@@ -82,7 +82,7 @@
 - Know how LSTMs work
 - Applications of 'sequential to sequential' models
 
-## M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs, Diffusion Models
+## M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs
 
  - Attention
    - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) and an annotated [version](http://nlp.seas.harvard.edu/2018/04/03/attention.html)

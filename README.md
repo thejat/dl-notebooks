@@ -63,7 +63,7 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 | M04 | Text & NLP | [Slides](slides/M04_text.pdf) |
 | M05 | Recurrent Networks & Attention | [Slides](slides/M05a_recurrent.pdf), [Attention](slides/M05b_attention.pdf) |
 | M06 | Transformers | [Slides](slides/M06a_transformers.pdf) |
-| M07 | Unsupervised Learning (VAEs & GANs) | [Slides](slides/M07_unsupervised.pdf) |
+| M07 | Unsupervised Learning (VAEs, Diffusion & GANs) | [Slides](slides/M07_unsupervised.pdf) |
 | M08 | Repeated Decision Making & Bandits | [Slides](slides/M08_repeated_decision_making.pdf) |
 | M09 | Reinforcement Learning | [Slides](slides/M09_reinforcement.pdf) |
 | M10 | Deep Reinforcement Learning | [Slides](slides/M10_deep_reinforcement.pdf) |

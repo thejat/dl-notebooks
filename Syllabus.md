@@ -69,8 +69,8 @@ We will also discuss aspects of **AI ethics, fairness, accountability, transpare
  -  M03 : Transfer Learning and Fine-tuning: Visualization, LoRA, Practical Models (VGG, ResNet)
  -  M04 : Text and Embeddings: Introduction to NLP, Word Embeddings, Word2Vec
  -  M05 : Recurrent Neural Networks and Transformers: Sequence to Sequence Learning, RNNs and LSTMs
- -  M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs, Diffusion Models
- -  M07 : Unsupervised Deep Learning: Variational Autoencoders, Generative Adversarial Networks
+ -  M06 : Advanced NLP: Attention, BERT and Transformers, LLMs, VLMs, MLLMs
+ -  M07 : Unsupervised Deep Learning: Variational Autoencoders, Diffusion Models, Generative Adversarial Networks
  -  M08 : Online Learning: A/B Testing, Multi-armed Bandits, Contextual Bandits
  -  M09 : Reinforcement Learning: Policies, State-Action Value Functions, Bellman Equations, Q Learning 
  -  M10 : Deep Reinforcement Learning: Function Approximation, DQN for Atari Games, MCTS for AlphaGo
