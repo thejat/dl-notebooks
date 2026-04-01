@@ -62,7 +62,7 @@ Click the "Open in Colab" badge on any notebook to run it directly in your brows
 | M03 | CNNs & Transfer Learning | [Slides](slides/M03a_cnn_and_transfer.pdf), [LoRA](slides/M03b_LoRA.pdf), [PyTorch](slides/M03c_Pytorch.pdf) |
 | M04 | Text & NLP | [Slides](slides/M04_text.pdf) |
 | M05 | Recurrent Networks & Attention | [Slides](slides/M05a_recurrent.pdf), [Attention](slides/M05b_attention.pdf) |
-| M06 | Transformers | [Slides](slides/M06a_transformers.pdf) |
+| M06 | Transformers | [Slides](slides/M06a_transformers.pdf), [LLM Fundamentals](slides/M06b_llm_fundamentals.pdf) |
 | M07 | Unsupervised Learning (VAEs, Diffusion & GANs) | [Slides](slides/M07_unsupervised.pdf) |
 | M08 | Repeated Decision Making & Bandits | [Slides](slides/M08_repeated_decision_making.pdf) |
 | M09 | Reinforcement Learning | [Slides](slides/M09_reinforcement.pdf) |
